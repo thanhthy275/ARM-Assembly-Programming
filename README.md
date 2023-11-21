@@ -1,6 +1,9 @@
 # ARM-Assembly-Programming
 
 Development Stages
+
+![image](https://github.com/thanhthy275/ARM-Assembly-Programming/assets/67629044/44e15bd3-7bc0-42e4-ba1c-cc6745f70ff1)
+
 Stage 1 is concerned with some basic functions, comparisons and arithmetic. It is in three stages
 
 - Stage 1A - the min function  
