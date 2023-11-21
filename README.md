@@ -7,10 +7,10 @@ Development Stages
 - Stage 1A - the min function  
 Write ARM assembly code for the function stage1a_min that returns the smallest value of 3 numbers given as arguments. In addition you should note the following:
 
-- Stage 1B - the max function  (10% of total marks)
+- Stage 1B - the max function 
 Write ARM assembly code for the function stage1b_max that returns the largest value of 3 numbers given as arguments. In addition you should note the following:
 
-- Stage 1C  - the diff function (10% of total marks)
+- Stage 1C  - the diff function 
 Write ARM assembly code for the function stage1C_diff that returns the difference between the smallest and largest of 3 numbers given as arguments. In addition you should note the following:
 
 **Stage 2 - flash an array of integers**
